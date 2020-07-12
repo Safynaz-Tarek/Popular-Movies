@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">popularMoiveStage1</string>
+    <string name="detail_description">Description: </string>
+    <string name="detail_rating">Rating: </string>
+    <string name="detail_date">Date Released: </string>
+    <string name="detail_movie_name">Movie Title: </string>
+
+    <string name="movie_picture">Movie Poster </string>
+    <string name="error_message">Movie data not available</string>
+    <string name="no_internet_error">No internet connection </string>
+
+    <string name ="sort_popular_query"> popular</string>
+    <string name ="sort_top_rated_query">top_rated</string>
+</resources>
